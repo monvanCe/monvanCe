@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **omerfkoca@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gUd5bGLJqP3GbJbFCNBvK0Zvexp3wPtX/view?usp=sharing](https://drive.google.com/file/d/1gUd5bGLJqP3GbJbFCNBvK0Zvexp3wPtX/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1gUd5bGLJqP3GbJbFCNBvK0Zvexp3wPtX/view?usp=sharing)
 
 - ⚡ Fun fact **i think i'm kind**
 
