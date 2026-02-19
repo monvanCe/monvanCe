@@ -1,26 +1,135 @@
-<h1 align="center">Hi 👋, I'm Omer</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
-
-- 🔭 I’m currently working on [Vens Crypto Signal](https://github.com/monvanCe/monvance-rn)
-
-- 👯 I’m looking to collaborate on [Vens Crypto Signal Backend](https://github.com/faruk4234/monvance-apiv2)
-
-- 💬 Ask me about **react, react native, typescript**
-
-- 📫 How to reach me **omerfkoca@gmail.com**
-
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1gUd5bGLJqP3GbJbFCNBvK0Zvexp3wPtX/view?usp=sharing)
-
-- ⚡ Fun fact **i think i'm kind**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/dev.monvance" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.monvance" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/omerfkoca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omerfkoca" height="30" width="40" /></a>
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=Ömer%20F.%20Koca&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&lines=Frontend+Engineer;React+%2F+React+Native+Specialist;UI+Perfectionist;Performance+Driven;Architecture+Focused" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=monvance&show_icons=true&locale=en&layout=compact" alt="monvance" /></p>
+---
 
+## Profile
+
+Frontend Engineer specialized in **React** and **React Native**.
+
+I design scalable frontend architectures, build production-grade mobile applications, and focus obsessively on UI precision and performance optimization.
+
+Motto:  
+**"You never know until you try."**
+
+Ambitious. Open to feedback. Strong believer in structured systems over chaotic code.
+
+---
+
+## Production Application
+
+### Vens Crypto Signal
+
+Built entirely from scratch using React Native.
+
+- Modular and scalable architecture
+- Redux state management
+- Performance-oriented rendering
+- Clean folder structure aligned with SOLID principles
+- UI consistency and animation refinement
+
+Google Play:  
+https://play.google.com/store/apps/details?id=com.cekolabs.vens
+
+Repository:  
+https://github.com/monvanCe/monvance-rn
+
+---
+
+## Highlight Projects
+
+### movieIt
+Scalable React application built from zero.
+
+- Feature-based architecture
+- Component abstraction strategy
+- Optimized rendering patterns
+- Maintainable structure
+
+https://github.com/monvanCe/movieIt
+
+---
+
+### biletkeşfet
+Structured modern frontend project.
+
+https://github.com/monvanCe/biletkesfet
+
+---
+
+## Tech Stack
+
+### Core
+<p>
+  <img src="https://skillicons.dev/icons?i=react,redux,ts,js,html,css" />
+</p>
+
+### Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=react" /> React Native
+</p>
+
+### Architecture & Patterns
+
+- Compound Pattern  
+- Render Props  
+- Headless Components  
+- Feature-Based Structure  
+- SOLID Principles  
+
+---
+
+## Engineering Focus
+
+- Pixel-perfect UI implementation
+- Predictable state management (Redux)
+- Performance-first rendering strategy
+- Clean and scalable folder architecture
+- Animation systems & interaction detail
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=monvanCe&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monvanCe&theme=github-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monvanCe&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+## Philosophy
+
+- Clean code is not optional.
+- Structure defines scalability.
+- Performance is a responsibility.
+- UI details matter.
+
+---
+
+## Connect
+
+LinkedIn  
+https://linkedin.com/in/omerfkoca
+
+GitHub  
+https://github.com/monvanCe
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=monvanCe&color=grey&style=flat-square" />
+</p>
